@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# CanMV / MicroPython 板端产物
+*.kmodel
+*.bin
+*.autosave
+*.bak
+deploy_config.local.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
